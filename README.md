@@ -1,0 +1,2 @@
+# DJSlider
+不同于UISlider的Slider,解决系统计算value的时候产生的错误问题
